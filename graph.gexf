@@ -1,0 +1,799 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-18">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="dates" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Hamas" label="Hamas">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 15 May 2025 21:34:27 GMT, 17 May 2025 18:23:12 GMT,Sat,Sat, 17 May 2025 16:23:28 +0000,Thu" />
+        </attvalues>
+      </node>
+      <node id="seven" label="seven">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 13:39:51 GMT" />
+        </attvalues>
+      </node>
+      <node id="Ukraine" label="Ukraine">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 14 May 2025 21:09:37 GMT, 16 May 2025 15:04:43 GMT, 17 May 2025 03:36:00 +0000, 17 May 2025 13:39:51 GMT,Fri,Fri, 16 May 2025 21:54:37 +0000,Sat,Wed" />
+        </attvalues>
+      </node>
+      <node id="Sumy" label="Sumy">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 13:39:51 GMT" />
+        </attvalues>
+      </node>
+      <node id="US" label="US">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 15 May 2025 09:54:59 GMT, 16 May 2025 11:19:02 GMT, 16 May 2025 18:00:52 GMT, 16 May 2025 22:37:14 +0000, 16 May 2025 23:01:32 GMT, 16 May 2025 23:23:50 +0000, 17 May 2025 01:02:40 GMT, 17 May 2025 07:44:57 +0000, 17 May 2025 12:22:42 +0000, 17 May 2025 16:47:21 GMT,Fri,Fri, 16 May 2025 22:24:45 +0000,Sat,Thu" />
+        </attvalues>
+      </node>
+      <node id="Ukrainian" label="Ukrainian">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 17 May 2025 16:47:21 GMT,Sat,Sat, 17 May 2025 07:44:57 +0000" />
+        </attvalues>
+      </node>
+      <node id="Volodymyr Zelensky" label="Volodymyr Zelensky">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 16:47:21 GMT" />
+        </attvalues>
+      </node>
+      <node id="Nato" label="Nato">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 16:47:21 GMT" />
+        </attvalues>
+      </node>
+      <node id="five" label="five">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 23:08:34 GMT" />
+        </attvalues>
+      </node>
+      <node id="Eurovision" label="Eurovision">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 16 May 2025 23:08:34 GMT,Fri,Thu, 15 May 2025 00:10:44 GMT" />
+        </attvalues>
+      </node>
+      <node id="Saturday" label="Saturday">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 16 May 2025 23:08:34 GMT,Fri,Sat, 17 May 2025 17:17:17 GMT" />
+        </attvalues>
+      </node>
+      <node id="Kentucky" label="Kentucky">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 17:17:17 GMT" />
+        </attvalues>
+      </node>
+      <node id="Missouri" label="Missouri">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 17:17:17 GMT" />
+        </attvalues>
+      </node>
+      <node id="Friday" label="Friday">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 17 May 2025 17:17:17 GMT,Sat,Sat, 17 May 2025 07:00:26 +0000" />
+        </attvalues>
+      </node>
+      <node id="Moody's" label="Moody's">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 01:02:40 GMT" />
+        </attvalues>
+      </node>
+      <node id="Eiger" label="Eiger">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 16:29:56 GMT" />
+        </attvalues>
+      </node>
+      <node id="Alps" label="Alps">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 16:29:56 GMT" />
+        </attvalues>
+      </node>
+      <node id="2019" label="2019">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 16 May 2025 18:00:52 GMT,Fri,Fri, 16 May 2025 08:18:12 GMT" />
+        </attvalues>
+      </node>
+      <node id="BBC" label="BBC">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 15 May 2025 05:44:20 GMT, 15 May 2025 22:28:58 GMT, 16 May 2025 17:08:21 GMT, 17 May 2025 00:06:01 GMT,Fri,Fri, 16 May 2025 21:33:01 GMT,Sat,Thu" />
+        </attvalues>
+      </node>
+      <node id="Gaza" label="Gaza">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 15 May 2025 05:44:20 GMT, 15 May 2025 09:54:59 GMT, 16 May 2025 03:22:20 GMT, 16 May 2025 17:08:21 GMT, 17 May 2025 00:06:01 GMT, 17 May 2025 08:18:54 +0000,Fri,Fri, 16 May 2025 21:35:33 +0000,Sat,Thu" />
+        </attvalues>
+      </node>
+      <node id="10-week" label="10-week">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 17:08:21 GMT" />
+        </attvalues>
+      </node>
+      <node id="Democrats" label="Democrats">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 00:12:15 GMT" />
+        </attvalues>
+      </node>
+      <node id="Jimmy Donaldson" label="Jimmy Donaldson">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 21:58:45 GMT" />
+        </attvalues>
+      </node>
+      <node id="Salman" label="Salman">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 15:34:41 GMT" />
+        </attvalues>
+      </node>
+      <node id="New York" label="New York">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 15:34:41 GMT" />
+        </attvalues>
+      </node>
+      <node id="Masra" label="Masra">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 16:29:07 GMT" />
+        </attvalues>
+      </node>
+      <node id="Transformers" label="Transformers">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 16:29:07 GMT" />
+        </attvalues>
+      </node>
+      <node id="Oscar Jenkins" label="Oscar Jenkins">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 15:04:43 GMT" />
+        </attvalues>
+      </node>
+      <node id="33" label="33">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 15:04:43 GMT" />
+        </attvalues>
+      </node>
+      <node id="13 years" label="13 years">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 15:04:43 GMT" />
+        </attvalues>
+      </node>
+      <node id="Russian" label="Russian">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 16 May 2025 15:04:43 GMT,Fri,Sat, 17 May 2025 07:44:57 +0000" />
+        </attvalues>
+      </node>
+      <node id="Sunday" label="Sunday">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 16 May 2025 15:50:16 GMT, 16 May 2025 18:53:32 GMT, 17 May 2025 11:09:00 +0000,Fri,Sat,Sat, 17 May 2025 07:40:59 +0000" />
+        </attvalues>
+      </node>
+      <node id="Wednesday" label="Wednesday">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 18:53:32 GMT" />
+        </attvalues>
+      </node>
+      <node id="Karim Khan" label="Karim Khan">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 16:23:56 GMT" />
+        </attvalues>
+      </node>
+      <node id="the International Criminal Court" label="the International Criminal Court">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 16:23:56 GMT" />
+        </attvalues>
+      </node>
+      <node id="Sylvia Bongo" label="Sylvia Bongo">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 17:01:41 GMT" />
+        </attvalues>
+      </node>
+      <node id="last week" label="last week">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 17:01:41 GMT" />
+        </attvalues>
+      </node>
+      <node id="American" label="American">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 16 May 2025 13:08:28 GMT,Fri,Sat, 17 May 2025 09:21:38 +0000" />
+        </attvalues>
+      </node>
+      <node id="Thursday" label="Thursday">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 13:08:28 GMT" />
+        </attvalues>
+      </node>
+      <node id="London" label="London">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 13:08:28 GMT" />
+        </attvalues>
+      </node>
+      <node id="2023" label="2023">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 13:08:28 GMT" />
+        </attvalues>
+      </node>
+      <node id="Israeli" label="Israeli">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 15 May 2025 09:54:59 GMT, 16 May 2025 03:22:20 GMT,Fri,Sat, 17 May 2025 08:18:54 +0000,Thu" />
+        </attvalues>
+      </node>
+      <node id="114" label="114">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 03:22:20 GMT" />
+        </attvalues>
+      </node>
+      <node id="TPLF" label="TPLF">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 09:39:49 GMT" />
+        </attvalues>
+      </node>
+      <node id="two-year" label="two-year">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 09:39:49 GMT" />
+        </attvalues>
+      </node>
+      <node id="2022" label="2022">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 09:39:49 GMT" />
+        </attvalues>
+      </node>
+      <node id="Thirteen" label="Thirteen">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 04:41:39 GMT" />
+        </attvalues>
+      </node>
+      <node id="Pataz" label="Pataz">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 04:41:39 GMT" />
+        </attvalues>
+      </node>
+      <node id="May" label="May">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 04:41:39 GMT" />
+        </attvalues>
+      </node>
+      <node id="Israel" label="Israel">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 15 May 2025 21:34:27 GMT, 15 May 2025 22:34:03 GMT, 17 May 2025 00:06:01 GMT, 17 May 2025 07:00:26 +0000, 17 May 2025 09:02:55 +0000, 17 May 2025 11:37:59 +0000, 17 May 2025 16:23:28 +0000,Fri, 16 May 2025 21:35:33 +0000,Sat,Thu" />
+        </attvalues>
+      </node>
+      <node id="Yuval Raphael" label="Yuval Raphael">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 22:34:03 GMT" />
+        </attvalues>
+      </node>
+      <node id="Austria" label="Austria">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 22:34:03 GMT" />
+        </attvalues>
+      </node>
+      <node id="Malta" label="Malta">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 22:34:03 GMT" />
+        </attvalues>
+      </node>
+      <node id="Los Angeles'" label="Los Angeles'">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 02:56:36 GMT" />
+        </attvalues>
+      </node>
+      <node id="seven breathless days" label="seven breathless days">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 23:01:32 GMT" />
+        </attvalues>
+      </node>
+      <node id="The Alpaiwala Museum" label="The Alpaiwala Museum">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 23:32:14 GMT" />
+        </attvalues>
+      </node>
+      <node id="Mumbai" label="Mumbai">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 23:32:14 GMT" />
+        </attvalues>
+      </node>
+      <node id="Parsi" label="Parsi">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 23:32:14 GMT" />
+        </attvalues>
+      </node>
+      <node id="first" label="first">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 16 May 2025 15:50:16 GMT,Fri,Thu, 15 May 2025 23:43:30 GMT" />
+        </attvalues>
+      </node>
+      <node id="Warsaw" label="Warsaw">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 15:50:16 GMT" />
+        </attvalues>
+      </node>
+      <node id="UK" label="UK">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 23:43:30 GMT" />
+        </attvalues>
+      </node>
+      <node id="EU" label="EU">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 23:43:30 GMT" />
+        </attvalues>
+      </node>
+      <node id="19 May" label="19 May">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 23:43:30 GMT" />
+        </attvalues>
+      </node>
+      <node id="Brexit" label="Brexit">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 23:43:30 GMT" />
+        </attvalues>
+      </node>
+      <node id="Charl Kleinhaus" label="Charl Kleinhaus">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 22:28:58 GMT" />
+        </attvalues>
+      </node>
+      <node id="South Africa" label="South Africa">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 15 May 2025 22:28:58 GMT,Fri, 16 May 2025 11:19:02 GMT,Thu" />
+        </attvalues>
+      </node>
+      <node id="Donald Trump" label="Donald Trump">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 16 May 2025 11:19:02 GMT,Fri,Fri, 16 May 2025 22:37:14 +0000" />
+        </attvalues>
+      </node>
+      <node id="LoC" label="LoC">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 23:32:50 GMT" />
+        </attvalues>
+      </node>
+      <node id="India" label="India">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 14 May 2025 23:48:46 GMT, 15 May 2025 23:32:50 GMT,Thu,Tue, 13 May 2025 23:16:31 GMT,Wed" />
+        </attvalues>
+      </node>
+      <node id="23-year-old" label="23-year-old">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 00:57:16 GMT" />
+        </attvalues>
+      </node>
+      <node id="Valeria Marquez" label="Valeria Marquez">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 00:57:16 GMT" />
+        </attvalues>
+      </node>
+      <node id="Nearly 80%" label="Nearly 80%">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 16:56:39 GMT" />
+        </attvalues>
+      </node>
+      <node id="1.9 million" label="1.9 million">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 16:56:39 GMT" />
+        </attvalues>
+      </node>
+      <node id="Fergal Keane" label="Fergal Keane">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 05:44:20 GMT" />
+        </attvalues>
+      </node>
+      <node id="Jordan" label="Jordan">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 05:44:20 GMT" />
+        </attvalues>
+      </node>
+      <node id="Istanbul" label="Istanbul">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Wed, 14 May 2025 21:09:37 GMT" />
+        </attvalues>
+      </node>
+      <node id="one" label="one">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 14 May 2025 23:48:46 GMT,Thu, 15 May 2025 00:10:44 GMT,Wed" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Wed, 14 May 2025 23:48:46 GMT" />
+        </attvalues>
+      </node>
+      <node id="IMF" label="IMF">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Wed, 14 May 2025 23:48:46 GMT" />
+        </attvalues>
+      </node>
+      <node id="Afrikaners" label="Afrikaners">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 01:43:02 GMT" />
+        </attvalues>
+      </node>
+      <node id="Trump" label="Trump">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 15 May 2025 01:43:02 GMT, 17 May 2025 11:24:32 +0000,Fri, 16 May 2025 21:54:37 +0000,Sat,Thu" />
+        </attvalues>
+      </node>
+      <node id="under a minute" label="under a minute">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 00:10:44 GMT" />
+        </attvalues>
+      </node>
+      <node id="Tuesday" label="Tuesday">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 14 May 2025 11:20:29 GMT,Thu, 15 May 2025 21:34:27 GMT,Wed" />
+        </attvalues>
+      </node>
+      <node id="Los Angeles" label="Los Angeles">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Wed, 14 May 2025 11:20:29 GMT" />
+        </attvalues>
+      </node>
+      <node id="Lyle" label="Lyle">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Wed, 14 May 2025 11:20:29 GMT" />
+        </attvalues>
+      </node>
+      <node id="Erik" label="Erik">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Wed, 14 May 2025 11:20:29 GMT" />
+        </attvalues>
+      </node>
+      <node id="Dozens" label="Dozens">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Wed, 14 May 2025 05:00:07 GMT" />
+        </attvalues>
+      </node>
+      <node id="Virat Kohli" label="Virat Kohli">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Tue, 13 May 2025 23:16:31 GMT" />
+        </attvalues>
+      </node>
+      <node id="Monday" label="Monday">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 13 May 2025 23:16:31 GMT,Sat, 17 May 2025 07:44:57 +0000,Tue" />
+        </attvalues>
+      </node>
+      <node id="William Ruto" label="William Ruto">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Tue, 13 May 2025 23:31:41 GMT" />
+        </attvalues>
+      </node>
+      <node id="Ros Atkins" label="Ros Atkins">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 00:06:01 GMT" />
+        </attvalues>
+      </node>
+      <node id="Nada Tawfik" label="Nada Tawfik">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 21:33:01 GMT" />
+        </attvalues>
+      </node>
+      <node id="Nottoway House" label="Nottoway House">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 22:47:19 GMT" />
+        </attvalues>
+      </node>
+      <node id="1859" label="1859">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 22:47:19 GMT" />
+        </attvalues>
+      </node>
+      <node id="28" label="28">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Thu, 15 May 2025 21:34:27 GMT" />
+        </attvalues>
+      </node>
+      <node id="Qatar" label="Qatar">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 16:23:28 +0000" />
+        </attvalues>
+      </node>
+      <node id="dozens" label="dozens">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 16:23:28 +0000" />
+        </attvalues>
+      </node>
+      <node id="Midwest" label="Midwest">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 13:27:50 +0000" />
+        </attvalues>
+      </node>
+      <node id="thousands" label="thousands">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 13:27:50 +0000" />
+        </attvalues>
+      </node>
+      <node id="Palestinian" label="Palestinian">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 17 May 2025 09:02:55 +0000, 17 May 2025 11:37:59 +0000,Sat,Sat, 17 May 2025 08:18:54 +0000" />
+        </attvalues>
+      </node>
+      <node id="March 2" label="March 2">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 11:37:59 +0000" />
+        </attvalues>
+      </node>
+      <node id="Middle East" label="Middle East">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 11:24:32 +0000" />
+        </attvalues>
+      </node>
+      <node id="Poles" label="Poles">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 11:16:45 +0000" />
+        </attvalues>
+      </node>
+      <node id="second" label="second">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 11:16:45 +0000" />
+        </attvalues>
+      </node>
+      <node id="Everton" label="Everton">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 11:09:00 +0000" />
+        </attvalues>
+      </node>
+      <node id="Premier League" label="Premier League">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 11:09:00 +0000" />
+        </attvalues>
+      </node>
+      <node id="Goodison Park" label="Goodison Park">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 11:09:00 +0000" />
+        </attvalues>
+      </node>
+      <node id="Tebogo" label="Tebogo">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 09:21:38 +0000" />
+        </attvalues>
+      </node>
+      <node id="Al Jazeera" label="Al Jazeera">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 09:21:38 +0000" />
+        </attvalues>
+      </node>
+      <node id="Jamaican" label="Jamaican">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 09:21:38 +0000" />
+        </attvalues>
+      </node>
+      <node id="Africa" label="Africa">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 09:21:38 +0000" />
+        </attvalues>
+      </node>
+      <node id="2005" label="2005">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 08:18:54 +0000" />
+        </attvalues>
+      </node>
+      <node id="New York&amp;#039;s 38" label="New York&amp;#039;s 38">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 07:48:28 +0000" />
+        </attvalues>
+      </node>
+      <node id="Boston Celtics" label="Boston Celtics">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 07:48:28 +0000" />
+        </attvalues>
+      </node>
+      <node id="Game 6" label="Game 6">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 07:48:28 +0000" />
+        </attvalues>
+      </node>
+      <node id="Knicks" label="Knicks">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 07:48:28 +0000" />
+        </attvalues>
+      </node>
+      <node id="NATO" label="NATO">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 07:44:57 +0000" />
+        </attvalues>
+      </node>
+      <node id="at least 115" label="at least 115">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 07:00:26 +0000" />
+        </attvalues>
+      </node>
+      <node id="Palestinians" label="Palestinians">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 17 May 2025 07:00:26 +0000,Fri, 16 May 2025 21:35:33 +0000,Sat" />
+        </attvalues>
+      </node>
+      <node id="day 1,178" label="day 1,178">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 03:36:00 +0000" />
+        </attvalues>
+      </node>
+      <node id="Russia" label="Russia">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value=" 16 May 2025 22:24:45 +0000, 17 May 2025 03:36:00 +0000,Fri,Fri, 16 May 2025 21:54:37 +0000,Sat" />
+        </attvalues>
+      </node>
+      <node id="Malaysia" label="Malaysia">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 01:12:14 +0000" />
+        </attvalues>
+      </node>
+      <node id="Immigration and Customs Enforcement" label="Immigration and Customs Enforcement">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 00:16:08 +0000" />
+        </attvalues>
+      </node>
+      <node id="Mexican" label="Mexican">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Sat, 17 May 2025 00:16:08 +0000" />
+        </attvalues>
+      </node>
+      <node id="annual" label="annual">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 23:23:50 +0000" />
+        </attvalues>
+      </node>
+      <node id="three" label="three">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 22:37:14 +0000" />
+        </attvalues>
+      </node>
+      <node id="Gulf" label="Gulf">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 22:37:14 +0000" />
+        </attvalues>
+      </node>
+      <node id="European" label="European">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 22:24:45 +0000" />
+        </attvalues>
+      </node>
+      <node id="Bridget Brink" label="Bridget Brink">
+        <attvalues>
+          <attvalue for="0" value="entity" />
+          <attvalue for="1" value="Fri, 16 May 2025 21:54:37 +0000" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Hamas" target="Israel" id="0" weight="2" />
+      <edge source="Ukraine" target="Russia" id="1" weight="2" />
+      <edge source="US" target="Ukrainian" id="2" weight="2" />
+      <edge source="US" target="Donald Trump" id="3" weight="2" />
+      <edge source="BBC" target="Gaza" id="4" weight="3" />
+      <edge source="Gaza" target="Israeli" id="5" weight="3" />
+      <edge source="Gaza" target="Israel" id="6" weight="2" />
+      <edge source="Israel" target="Palestinian" id="7" weight="2" />
+      <edge source="Israel" target="Palestinians" id="8" weight="2" />
+    </edges>
+  </graph>
+</gexf>

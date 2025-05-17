@@ -1,0 +1,18 @@
+# config.yaml
+
+# RSS feed sources
+feeds:
+  Reuters: http://feeds.reuters.com/reuters/businessNews
+  BBC:    http://feeds.bbci.co.uk/news/world/rss.xml
+  AlJazeera: https://www.aljazeera.com/xml/rss/all.xml
+  CNA:    https://www.channelnewsasia.com/rssfeeds/8395952
+
+# spaCy model to use for NER
+spacy_model: en_core_web_trf
+
+# Hugging Face model names
+sentiment_model: distilbert-base-uncased-finetuned-sst-2-english
+event_model: mrm8488/event-extraction
+
+# Minimum number of co-occurrences before creating an edge in the graph
+min_cooccurrence: 2

@@ -1,0 +1,1759 @@
+[
+  {
+    "id": "https://www.bbc.com/news/articles/cd7geg3lvz1o#0",
+    "title": "New round of ceasefire talks after Israel launches major offensive",
+    "summary": "Hamas says its negotiators have opened a new round of talks aimed at ending the war, and all issues are on the table.",
+    "date": "Sat, 17 May 2025 18:23:12 GMT",
+    "entities": [
+      [
+        "Hamas",
+        "ORG"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.7760469913482666
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cz0d31ydlg7o#0",
+    "title": "Nine killed in Russian strike on civilian bus in Ukraine",
+    "summary": "Another seven people are injured in Ukraine's north-eastern Sumy region, local officials say.",
+    "date": "Sat, 17 May 2025 13:39:51 GMT",
+    "entities": [
+      [
+        "seven",
+        "CARDINAL"
+      ],
+      [
+        "Ukraine",
+        "GPE"
+      ],
+      [
+        "Sumy",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9940047860145569
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c70nwr7zg7lo#0",
+    "title": "Trump says he will call Putin on Monday to discuss stopping Ukraine 'bloodbath'",
+    "summary": "The US president said he would also talk to Ukrainian President Volodymyr Zelensky, and Nato leaders.",
+    "date": "Sat, 17 May 2025 16:47:21 GMT",
+    "entities": [
+      [
+        "US",
+        "GPE"
+      ],
+      [
+        "Ukrainian",
+        "NORP"
+      ],
+      [
+        "Volodymyr Zelensky",
+        "PERSON"
+      ],
+      [
+        "Nato",
+        "ORG"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9667760133743286
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czelprjn6z5o#0",
+    "title": "Eurovision final 2025: Catch up with the top five favourites",
+    "summary": "Meet the five artists who are tipped to take the Eurovision trophy, as Saturday's final draws near.",
+    "date": "Fri, 16 May 2025 23:08:34 GMT",
+    "entities": [
+      [
+        "five",
+        "CARDINAL"
+      ],
+      [
+        "Eurovision",
+        "EVENT"
+      ],
+      [
+        "Saturday",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9993634819984436
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c70nw7v5ykyo#0",
+    "title": "At least 21 dead after tornadoes sweep through US Midwest",
+    "summary": "Kentucky and Missouri report severe injuries and deaths in storms that hit on Friday and Saturday.",
+    "date": "Sat, 17 May 2025 17:17:17 GMT",
+    "entities": [
+      [
+        "Kentucky",
+        "GPE"
+      ],
+      [
+        "Missouri",
+        "GPE"
+      ],
+      [
+        "Friday",
+        "DATE"
+      ],
+      [
+        "Saturday",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9779618978500366
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce82vdgene7o#0",
+    "title": "'To Easy LoL' - New Orleans jail break may have been inside job",
+    "summary": "The inmates ripped a toilet from the wall and escaped through a hole before running across a highway.",
+    "date": "Sat, 17 May 2025 02:26:01 GMT",
+    "entities": [],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.998681366443634
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4ge0xk4ld1o#0",
+    "title": "US loses last perfect credit rating amid rising debt",
+    "summary": "Moody's said successive US administrations had failed to reverse ballooning deficits and interest costs.",
+    "date": "Sat, 17 May 2025 01:02:40 GMT",
+    "entities": [
+      [
+        "Moody's",
+        "ORG"
+      ],
+      [
+        "US",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9982016086578369
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8d14yyverro#1",
+    "title": "Avalanche in Swiss Alps buries several people, police say",
+    "summary": "A search and rescue operation is under way after an avalanche on the Eiger mountain in the Swiss Alps.",
+    "date": "Sat, 17 May 2025 16:29:56 GMT",
+    "entities": [
+      [
+        "Eiger",
+        "LOC"
+      ],
+      [
+        "Alps",
+        "LOC"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9894940257072449
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cj42nvrkgzno#1",
+    "title": "Cassie Ventura tells Diddy trial she would give back $20m to undo 'freak offs'",
+    "summary": "The rapper's ex-girlfriend rejects defence suggestions that her accusations were financially motivated.",
+    "date": "Sat, 17 May 2025 02:41:17 GMT",
+    "entities": [],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9942091703414917
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvg7egyrk40o#1",
+    "title": "Melania Trump statue goes missing in Slovenia",
+    "summary": "The bronze depiction of the US First Lady is a replacement for a previous wooden version, which was set on fire in 2019.",
+    "date": "Fri, 16 May 2025 18:00:52 GMT",
+    "entities": [
+      [
+        "US",
+        "GPE"
+      ],
+      [
+        "2019",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9906705617904663
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cly3nyqx7xwo#1",
+    "title": "Dizziness from hunger has become a constant, Gazans tell the BBC",
+    "summary": "The BBC speaks to people in Gaza during a 10-week blockade on food, medical supplies and other aid.",
+    "date": "Fri, 16 May 2025 17:08:21 GMT",
+    "entities": [
+      [
+        "BBC",
+        "ORG"
+      ],
+      [
+        "Gaza",
+        "GPE"
+      ],
+      [
+        "10-week",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.7838947176933289
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cpqelqpvpeqo#1",
+    "title": "Five House Republicans stall Trump's 'big, beautiful' tax bill",
+    "summary": "Lawmakers from the president's own party  joined all Democrats to reject a key domestic bill, demanding deeper budget cuts.",
+    "date": "Sat, 17 May 2025 00:12:15 GMT",
+    "entities": [
+      [
+        "Democrats",
+        "NORP"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9765995144844055
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c0lnp3ny4wro#1",
+    "title": "The poison paradox: How Australia's deadliest animals save lives",
+    "summary": "The public antivenom programme saving lives in a place where, the joke goes, everything wants to kill you.",
+    "date": "Fri, 16 May 2025 23:13:43 GMT",
+    "entities": [],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9756687879562378
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/crr70vykk0wo#1",
+    "title": "Mexico accuses MrBeast of exploiting Mayan pyramids",
+    "summary": "Authorities say they never allowed Jimmy Donaldson to film at pyramid heritage sites for profit.",
+    "date": "Fri, 16 May 2025 21:58:45 GMT",
+    "entities": [
+      [
+        "Jimmy Donaldson",
+        "PERSON"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9886294603347778
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp85kg527p9o#1",
+    "title": "Rushdie attacker sentenced to 25 years in prison",
+    "summary": "Sir Salman was on a New York lecture stage, when he was stabbed multiple times in the face and neck leaving him partially blinded.",
+    "date": "Fri, 16 May 2025 15:34:41 GMT",
+    "entities": [
+      [
+        "Salman",
+        "PERSON"
+      ],
+      [
+        "New York",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9956638216972351
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8d19v3eygyo#1",
+    "title": "Former Chad PM arrested over alleged links to deadly clash",
+    "summary": "Masra's party the Transformers say their leader's detention took place \"outside of any known judicial procedure\".",
+    "date": "Fri, 16 May 2025 16:29:07 GMT",
+    "entities": [
+      [
+        "Masra",
+        "PERSON"
+      ],
+      [
+        "Transformers",
+        "ORG"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9981196522712708
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c308deylny1o#1",
+    "title": "Russia jails Australian man for fighting alongside Ukraine",
+    "summary": "Oscar Jenkins, 33, is sentenced to 13 years by a Russian-controlled court in eastern Ukraine.",
+    "date": "Fri, 16 May 2025 15:04:43 GMT",
+    "entities": [
+      [
+        "Oscar Jenkins",
+        "PERSON"
+      ],
+      [
+        "33",
+        "DATE"
+      ],
+      [
+        "13 years",
+        "DATE"
+      ],
+      [
+        "Russian",
+        "NORP"
+      ],
+      [
+        "Ukraine",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.979949414730072
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn7zvleen71o#1",
+    "title": "Shock in Sweden at death of diplomat questioned for spying",
+    "summary": "The man, described as a high-ranking diplomat, was arrested on Sunday and released on Wednesday.",
+    "date": "Fri, 16 May 2025 18:53:32 GMT",
+    "entities": [
+      [
+        "Sunday",
+        "DATE"
+      ],
+      [
+        "Wednesday",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.7471520304679871
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cgeg738rvdeo#1",
+    "title": "ICC prosecutor steps aside until sexual misconduct probe ends",
+    "summary": "Karim Khan takes leave until an investigation into allegations ends, the International Criminal Court says.",
+    "date": "Fri, 16 May 2025 16:23:56 GMT",
+    "entities": [
+      [
+        "Karim Khan",
+        "PERSON"
+      ],
+      [
+        "the International Criminal Court",
+        "ORG"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9767241477966309
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c20x3d48509o#1",
+    "title": "Gabon's ousted president and family freed after two years and fly to Angola",
+    "summary": "Sylvia Bongo and her son was freed from prison last week despite facing charges of embezzling public funds.",
+    "date": "Fri, 16 May 2025 17:01:41 GMT",
+    "entities": [
+      [
+        "Sylvia Bongo",
+        "PERSON"
+      ],
+      [
+        "last week",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.6116586327552795
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cj428kdn749o#1",
+    "title": "Chris Brown remanded in custody over alleged club attack",
+    "summary": "The American singer was arrested on Thursday over an alleged assault at a London nightclub in 2023.",
+    "date": "Fri, 16 May 2025 13:08:28 GMT",
+    "entities": [
+      [
+        "American",
+        "NORP"
+      ],
+      [
+        "Thursday",
+        "DATE"
+      ],
+      [
+        "London",
+        "GPE"
+      ],
+      [
+        "2023",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9903958439826965
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c4gewwg1wlvo#1",
+    "title": "US 'troubled' by humanitarian situation in Gaza, Rubio tells BBC",
+    "summary": "The secretary of state's comments come as Israeli strikes across Gaza kill 114 people, according to hospitals and rescuers",
+    "date": "Fri, 16 May 2025 03:22:20 GMT",
+    "entities": [
+      [
+        "Israeli",
+        "NORP"
+      ],
+      [
+        "Gaza",
+        "GPE"
+      ],
+      [
+        "114",
+        "CARDINAL"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9975638389587402
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/czxykqdlkego#1",
+    "title": "Tigray party says ban threatens Ethiopia peace deal",
+    "summary": "The TPLF fought a two-year civil war against the federal government, which ended in 2022.",
+    "date": "Fri, 16 May 2025 09:39:49 GMT",
+    "entities": [
+      [
+        "TPLF",
+        "ORG"
+      ],
+      [
+        "two-year",
+        "DATE"
+      ],
+      [
+        "2022",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.8655036687850952
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c20nk27lng3o#1",
+    "title": "Ancient Indian skeleton gets a museum home six years after excavation",
+    "summary": "The skeleton had been kept in a makeshift shed since its excavation in 2019 due to bureaucratic wrangling.",
+    "date": "Fri, 16 May 2025 08:18:12 GMT",
+    "entities": [
+      [
+        "2019",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9989558458328247
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvg7ekyvelpo#1",
+    "title": "Colombian police arrest suspect in Peru mine workers' killings",
+    "summary": "Thirteen men were kidnapped and killed at a gold mine in Pataz district earlier in May.",
+    "date": "Fri, 16 May 2025 04:41:39 GMT",
+    "entities": [
+      [
+        "Thirteen",
+        "CARDINAL"
+      ],
+      [
+        "Pataz",
+        "LOC"
+      ],
+      [
+        "May",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9851764440536499
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c780xn5p72jo#1",
+    "title": "Israel qualifies for Eurovision final after protests disrupt rehearsal",
+    "summary": "Israel's Yuval Raphael makes it to the final, alongside acts from Austria and Malta.",
+    "date": "Thu, 15 May 2025 22:34:03 GMT",
+    "entities": [
+      [
+        "Israel",
+        "GPE"
+      ],
+      [
+        "Yuval Raphael",
+        "PERSON"
+      ],
+      [
+        "Austria",
+        "GPE"
+      ],
+      [
+        "Malta",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9995878338813782
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgnp103zr9o#1",
+    "title": "LA 2028 Olympics plans air taxi service for spectators",
+    "summary": "The aircraft still aren't commercially approved but could offer a way around Los Angeles' notoriously poor traffic.",
+    "date": "Fri, 16 May 2025 02:56:36 GMT",
+    "entities": [
+      [
+        "Los Angeles'",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.992938756942749
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/clyv789ejgxo#2",
+    "title": "Trump's frantic week of peace brokering hints at what he really wants",
+    "summary": "After seven breathless days of diplomatic hurly burly, we have a clearer idea of the US president's global ideology - and the limits of his 'art of a deal'.",
+    "date": "Fri, 16 May 2025 23:01:32 GMT",
+    "entities": [
+      [
+        "seven breathless days",
+        "DATE"
+      ],
+      [
+        "US",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9656442999839783
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cvgv445jqr1o#2",
+    "title": "Of opium, fire temples, and sarees: A peek into the world of India's dwindling Parsis",
+    "summary": "The Alpaiwala Museum in Mumbai city traces the origins and history of the fast-dwindling Parsi community.",
+    "date": "Fri, 16 May 2025 23:32:14 GMT",
+    "entities": [
+      [
+        "The Alpaiwala Museum",
+        "ORG"
+      ],
+      [
+        "Mumbai",
+        "GPE"
+      ],
+      [
+        "Parsi",
+        "NORP"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9973300695419312
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cn8zxn9xg2ro#2",
+    "title": "Polish voters set for tight presidential race after 10 years of Duda",
+    "summary": "Sunday's first-round is expected to set up a run-off between Warsaw's liberal mayor and a conservative historian.",
+    "date": "Fri, 16 May 2025 15:50:16 GMT",
+    "entities": [
+      [
+        "Sunday",
+        "DATE"
+      ],
+      [
+        "first",
+        "ORDINAL"
+      ],
+      [
+        "Warsaw",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9936829805374146
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c20x395pvvjo#2",
+    "title": "Is Britain really inching back towards the EU?",
+    "summary": "The summit between the UK and EU on 19 May will be the first since Brexit - the very idea of it has polarised opinions",
+    "date": "Thu, 15 May 2025 23:43:30 GMT",
+    "entities": [
+      [
+        "UK",
+        "GPE"
+      ],
+      [
+        "EU",
+        "ORG"
+      ],
+      [
+        "19 May",
+        "DATE"
+      ],
+      [
+        "first",
+        "ORDINAL"
+      ],
+      [
+        "Brexit",
+        "EVENT"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9584775567054749
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c98p3eple9eo#2",
+    "title": "'I didn't come here for fun' - Afrikaner defends refugee status in US",
+    "summary": "Charl Kleinhaus tells the BBC he had no choice but to leave his farm in South Africa after receiving death threats.",
+    "date": "Thu, 15 May 2025 22:28:58 GMT",
+    "entities": [
+      [
+        "Charl Kleinhaus",
+        "PERSON"
+      ],
+      [
+        "BBC",
+        "ORG"
+      ],
+      [
+        "South Africa",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9984409213066101
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c9wg5pg1xp5o#2",
+    "title": "Is there a genocide of white South Africans as Trump claims?",
+    "summary": "US President Donald Trump says a genocide is taking place in South Africa, a claim a judge dismissed as \"imaginary\".",
+    "date": "Fri, 16 May 2025 11:19:02 GMT",
+    "entities": [
+      [
+        "US",
+        "GPE"
+      ],
+      [
+        "Donald Trump",
+        "PERSON"
+      ],
+      [
+        "South Africa",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9906781911849976
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cgmj7l0lne3o#2",
+    "title": "How India and Pakistan share one of the world's most dangerous borders",
+    "summary": "Living along the LoC - the volatile India-Pakistan border - means life in a fragile limbo between war and peace.",
+    "date": "Thu, 15 May 2025 23:32:50 GMT",
+    "entities": [
+      [
+        "LoC",
+        "LOC"
+      ],
+      [
+        "India",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9911993145942688
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cly3nw938deo#2",
+    "title": "Valeria Marquez: Who was the Mexican influencer killed live on TikTok?",
+    "summary": "Prosecutors say they are treating the killing of 23-year-old Valeria Marquez as a femicide.",
+    "date": "Fri, 16 May 2025 00:57:16 GMT",
+    "entities": [
+      [
+        "23-year-old",
+        "DATE"
+      ],
+      [
+        "Valeria Marquez",
+        "PERSON"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9904776811599731
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c628q8w7ej3o#2",
+    "title": "Blank questions, power cuts and a suicide: Nigeria's exams fiasco",
+    "summary": "Nearly 80% of the 1.9 million students who sat the exams did not get high enough marks to get into university.",
+    "date": "Thu, 15 May 2025 16:56:39 GMT",
+    "entities": [
+      [
+        "Nearly 80%",
+        "PERCENT"
+      ],
+      [
+        "1.9 million",
+        "CARDINAL"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9978280663490295
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cg5v2rjp84ro#2",
+    "title": "BBC joins Gaza children as they are evacuated to Jordan for treatment",
+    "summary": "The BBC's Fergal Keane accompanies children being evacuated from Gaza on their journey to Jordan.",
+    "date": "Thu, 15 May 2025 05:44:20 GMT",
+    "entities": [
+      [
+        "BBC",
+        "ORG"
+      ],
+      [
+        "Fergal Keane",
+        "PERSON"
+      ],
+      [
+        "Gaza",
+        "GPE"
+      ],
+      [
+        "Jordan",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9820458292961121
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c8e6wj07xlno#2",
+    "title": "Beginning of the end? Ukraine's front-line soldiers eye Russia talks with hope",
+    "summary": "There is cautious optimism in eastern Ukraine as talks are set to take place in Istanbul.",
+    "date": "Wed, 14 May 2025 21:09:37 GMT",
+    "entities": [
+      [
+        "Ukraine",
+        "GPE"
+      ],
+      [
+        "Istanbul",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9913255572319031
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/ce82ene10p0o#2",
+    "title": "Construction sites appear in Gaza ahead of Israeli-US aid plan rejected by UN, images show",
+    "summary": "Satellite images show building at sites in south Gaza after US says controversial Israeli aid plan to proceed.",
+    "date": "Thu, 15 May 2025 09:54:59 GMT",
+    "entities": [
+      [
+        "Gaza",
+        "GPE"
+      ],
+      [
+        "US",
+        "GPE"
+      ],
+      [
+        "Israeli",
+        "NORP"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9881870150566101
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c3v5r1erdpgo#2",
+    "title": "Why India could not stop IMF bailout to Pakistan",
+    "summary": "As one of 25 member groups on the IMF board, India's influence at the fund is limited, say experts.",
+    "date": "Wed, 14 May 2025 23:48:46 GMT",
+    "entities": [
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "25",
+        "CARDINAL"
+      ],
+      [
+        "IMF",
+        "ORG"
+      ],
+      [
+        "India",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9994410872459412
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp3q129gpe4o#2",
+    "title": "Do Afrikaners want to take Trump up on his South African refugee offer?",
+    "summary": "Claims of a white genocide are widely discredited, so how do Afrikaners feel about Trump's claims \u2013 and offer of refugee status?",
+    "date": "Thu, 15 May 2025 01:43:02 GMT",
+    "entities": [
+      [
+        "Afrikaners",
+        "NORP"
+      ],
+      [
+        "Trump",
+        "PERSON"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9959189295768738
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c1e679vn6yqo#2",
+    "title": "Meet the 'invisible crew' who have 35 seconds to prevent a Eurovision blunder",
+    "summary": "Find out how Eurovision gets one act off the stage and another one in place in under a minute.",
+    "date": "Thu, 15 May 2025 00:10:44 GMT",
+    "entities": [
+      [
+        "Eurovision",
+        "EVENT"
+      ],
+      [
+        "one",
+        "CARDINAL"
+      ],
+      [
+        "under a minute",
+        "TIME"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9965257048606873
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c5y2dgep4zzo#2",
+    "title": "What did Erik and Lyle Menendez do and when could they be released?",
+    "summary": "On Tuesday, a Los Angeles judge reduced Lyle and Erik's murder sentence, making them eligible for parole.",
+    "date": "Wed, 14 May 2025 11:20:29 GMT",
+    "entities": [
+      [
+        "Tuesday",
+        "DATE"
+      ],
+      [
+        "Los Angeles",
+        "GPE"
+      ],
+      [
+        "Lyle",
+        "PERSON"
+      ],
+      [
+        "Erik",
+        "PERSON"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.5916476845741272
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/clygv2dj78zo#2",
+    "title": "'Go back to Ukraine': War refugees complain of abuse in Poland",
+    "summary": "Dozens say they have been abused in public, bullied in schools and seen increasing xenophobic material online.",
+    "date": "Wed, 14 May 2025 05:00:07 GMT",
+    "entities": [
+      [
+        "Dozens",
+        "CARDINAL"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.991419792175293
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cp857gryxn1o#2",
+    "title": "The heartbeat of a billion: What Virat Kohli meant to India",
+    "summary": "Legendary India batter Virat Kohli announced retirement from international Test cricket on Monday.",
+    "date": "Tue, 13 May 2025 23:16:31 GMT",
+    "entities": [
+      [
+        "India",
+        "GPE"
+      ],
+      [
+        "Virat Kohli",
+        "PERSON"
+      ],
+      [
+        "Monday",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9583393931388855
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/cewdl20d8lxo#2",
+    "title": "El Chapo & Deputy Jesus - why Kenya's president has so many nicknames",
+    "summary": "William Ruto has the uncanny ability to attract numerous alternative handles, most are unflattering.",
+    "date": "Tue, 13 May 2025 23:31:41 GMT",
+    "entities": [
+      [
+        "William Ruto",
+        "PERSON"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.8520706295967102
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c2e373yzndro#2",
+    "title": "How real is the risk of nuclear war between India and Pakistan?",
+    "summary": "Recent hostilities were a reminder of how easily a crisis could escalate into catastrophe.",
+    "date": "Tue, 13 May 2025 23:35:23 GMT",
+    "entities": [],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9749955534934998
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/c20x1w9xq4po#3",
+    "title": "Ros Atkins on... how world leaders are responding to Israel's blockade of Gaza",
+    "summary": "The BBC's Analysis Editor Ros Atkins looks at how world leaders are responding to Israel's blockade of Gaza.",
+    "date": "Sat, 17 May 2025 00:06:01 GMT",
+    "entities": [
+      [
+        "BBC",
+        "ORG"
+      ],
+      [
+        "Ros Atkins",
+        "PERSON"
+      ],
+      [
+        "Israel",
+        "GPE"
+      ],
+      [
+        "Gaza",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9882645606994629
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/c2d54g6rkkyo#3",
+    "title": "How Diddy's lawyers used 'freak off' texts against Cassie",
+    "summary": "The BBC's Nada Tawfik explains what happened when the text messages were brought up in court.",
+    "date": "Fri, 16 May 2025 21:33:01 GMT",
+    "entities": [
+      [
+        "BBC",
+        "ORG"
+      ],
+      [
+        "Nada Tawfik",
+        "PERSON"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9950711727142334
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/cx2qe7lekqlo#3",
+    "title": "Huge fire engulfs historic plantation house in Louisiana",
+    "summary": "Flames ripped through Nottoway House, destroying much of structure, which was built in 1859.",
+    "date": "Fri, 16 May 2025 22:47:19 GMT",
+    "entities": [
+      [
+        "Nottoway House",
+        "FAC"
+      ],
+      [
+        "1859",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.997340738773346
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/cd0lj4rnre9o#3",
+    "title": "Watch: UK surgeon shares footage from Gaza hospital after deadly Israeli strike",
+    "summary": "Tuesday's strike killed 28 people, the Hamas-run civil defence said. Israel says it was a precise strike on Hamas.",
+    "date": "Thu, 15 May 2025 21:34:27 GMT",
+    "entities": [
+      [
+        "Tuesday",
+        "DATE"
+      ],
+      [
+        "28",
+        "CARDINAL"
+      ],
+      [
+        "Hamas",
+        "ORG"
+      ],
+      [
+        "Israel",
+        "GPE"
+      ],
+      [
+        "Hamas",
+        "ORG"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9718919992446899
+    }
+  },
+  {
+    "id": "https://www.bbc.com/news/videos/c8re5134k0yo#3",
+    "title": "Watch: Wildlife dyed blue in S\u00e3o Paulo chemical spill",
+    "summary": "City officials say they are acting to rescue and save the lives of the affected animals.",
+    "date": "Fri, 16 May 2025 02:13:28 GMT",
+    "entities": [],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.6137290596961975
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747492910",
+    "title": "Hamas says new Gaza truce talks under way as Israel expands ground assault",
+    "summary": "Israel and Hamas confirm indirect talks being held in Qatar as Israel expands ground offensive, killing dozens.",
+    "date": "Sat, 17 May 2025 16:23:28 +0000",
+    "entities": [
+      [
+        "Israel",
+        "GPE"
+      ],
+      [
+        "Hamas",
+        "ORG"
+      ],
+      [
+        "Qatar",
+        "GPE"
+      ],
+      [
+        "Israel",
+        "GPE"
+      ],
+      [
+        "dozens",
+        "CARDINAL"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9917305111885071
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747483085",
+    "title": "At least 21 dead after storms hit US states of Missouri and Kentucky",
+    "summary": "The storms are part of a severe weather system sweeping across the Midwest, leaving thousands without power.",
+    "date": "Sat, 17 May 2025 13:27:50 +0000",
+    "entities": [
+      [
+        "Midwest",
+        "LOC"
+      ],
+      [
+        "thousands",
+        "CARDINAL"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9995588660240173
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747476032",
+    "title": "Iran\u2019s leaders slam Trump for \u2018disgraceful\u2019 remarks during Middle East tour",
+    "summary": "The pushback comes after the US president accused Tehran&#039;s leadership of being &#039;corrupt and ineffective&#039;.",
+    "date": "Sat, 17 May 2025 12:22:42 +0000",
+    "entities": [
+      [
+        "US",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9954856038093567
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747469858",
+    "title": "Seven European nations urge Israel to \u2018reverse its current policy\u2019 on Gaza",
+    "summary": "Israel has halted the entry of food, medication and all other essentials into the Palestinian territory since March 2.",
+    "date": "Sat, 17 May 2025 11:37:59 +0000",
+    "entities": [
+      [
+        "Israel",
+        "GPE"
+      ],
+      [
+        "Palestinian",
+        "NORP"
+      ],
+      [
+        "March 2",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9977952241897583
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747477420",
+    "title": "Trump\u2019s moment in the Middle East",
+    "summary": "Dissecting the spectacle and substance of Trump\u2019s Middle East tour.",
+    "date": "Sat, 17 May 2025 11:24:32 +0000",
+    "entities": [
+      [
+        "Trump",
+        "PERSON"
+      ],
+      [
+        "Middle East",
+        "LOC"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9622454047203064
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747233810",
+    "title": "Poland presidential election 2025: Polls, results, contenders",
+    "summary": "Poles head to the polls to elect their next president as incumbent Duda&#039;s second term comes to an end.",
+    "date": "Sat, 17 May 2025 11:16:45 +0000",
+    "entities": [
+      [
+        "Poles",
+        "NORP"
+      ],
+      [
+        "second",
+        "ORDINAL"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9961898326873779
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747468866",
+    "title": "Everton vs Southampton: Goodison Park stages final Premier League match",
+    "summary": "Everton play their final Premier League match at Goodison Park on Sunday at a venue steeped in history and tradition.",
+    "date": "Sat, 17 May 2025 11:09:00 +0000",
+    "entities": [
+      [
+        "Everton",
+        "ORG"
+      ],
+      [
+        "Premier League",
+        "ORG"
+      ],
+      [
+        "Goodison Park",
+        "FAC"
+      ],
+      [
+        "Sunday",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9980807304382324
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747470641",
+    "title": "UK police charge three Iranians with suspected espionage",
+    "summary": "The men were charged with engaging in conduct likely to assist a foreign intelligence service, police said.",
+    "date": "Sat, 17 May 2025 10:42:10 +0000",
+    "entities": [],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9728173613548279
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747463884",
+    "title": "Libyan ministers resign as protesters call for government to step down",
+    "summary": "Police officer killed as the country sees renewed deadly clashes in the aftermath of the killing of a militia commander.",
+    "date": "Sat, 17 May 2025 09:51:55 +0000",
+    "entities": [],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9901586174964905
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747402450",
+    "title": "Q&A: Botswana\u2019s Letsile Tebogo on his Olympic triumph; African sprinters",
+    "summary": "Tebogo talks to Al Jazeera about breaking the American and Jamaican dominance, and the future of sprinting in Africa.",
+    "date": "Sat, 17 May 2025 09:21:38 +0000",
+    "entities": [
+      [
+        "Tebogo",
+        "GPE"
+      ],
+      [
+        "Al Jazeera",
+        "ORG"
+      ],
+      [
+        "American",
+        "NORP"
+      ],
+      [
+        "Jamaican",
+        "NORP"
+      ],
+      [
+        "Africa",
+        "LOC"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9941283464431763
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747465317",
+    "title": "Arab League calls for funds to rebuild Gaza at summit in Baghdad",
+    "summary": "The war on Palestinian territory dominated the summit, especially after Israel approves plans to expand its offensive.",
+    "date": "Sat, 17 May 2025 09:02:55 +0000",
+    "entities": [
+      [
+        "Palestinian",
+        "NORP"
+      ],
+      [
+        "Israel",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9810386300086975
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747467772",
+    "title": "Israel\u2019s Gaza \u2018disengagement\u2019 that paved the way for conquest",
+    "summary": "The Israeli withdrawal from Gaza in 2005 was not a concession. It was a strategic move to thwart Palestinian statehood.",
+    "date": "Sat, 17 May 2025 08:18:54 +0000",
+    "entities": [
+      [
+        "Israeli",
+        "NORP"
+      ],
+      [
+        "Gaza",
+        "GPE"
+      ],
+      [
+        "2005",
+        "DATE"
+      ],
+      [
+        "Palestinian",
+        "NORP"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9975741505622864
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747464847",
+    "title": "Knicks oust Celtics in Game 6 playoffs, make Eastern Conference finals",
+    "summary": "New York&#039;s 38-point victory against Boston Celtics in Game 6 was the largest win in Knicks playoff history.",
+    "date": "Sat, 17 May 2025 07:48:28 +0000",
+    "entities": [
+      [
+        "New York&#039;s 38",
+        "GPE"
+      ],
+      [
+        "Boston Celtics",
+        "ORG"
+      ],
+      [
+        "Game 6",
+        "EVENT"
+      ],
+      [
+        "Knicks",
+        "ORG"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9996143579483032
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747462419",
+    "title": "Trump says he will call Putin, Zelenskyy to discuss Ukraine \u2018bloodbath\u2019",
+    "summary": "The US leader says he will phone the Russian president, followed by his Ukrainian counterpart and NATO allies on Monday.",
+    "date": "Sat, 17 May 2025 07:44:57 +0000",
+    "entities": [
+      [
+        "US",
+        "GPE"
+      ],
+      [
+        "Russian",
+        "NORP"
+      ],
+      [
+        "Ukrainian",
+        "NORP"
+      ],
+      [
+        "NATO",
+        "ORG"
+      ],
+      [
+        "Monday",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9608674049377441
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747394100",
+    "title": "\u2018Exploding inequality\u2019: The fight for the hearts and minds of Poland\u2019s left",
+    "summary": "The left-wing contenders in Sunday\u2019s presidential election are expected to perform better this time - but not much.",
+    "date": "Sat, 17 May 2025 07:40:59 +0000",
+    "entities": [
+      [
+        "Sunday",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9987698197364807
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747388256",
+    "title": "Thousands of Palestinians flee north Gaza amid intensified Israeli attacks",
+    "summary": "Israel kills at least 115 Palestinians since Friday as it intensifies bombardment amid widespread forced starvation.",
+    "date": "Sat, 17 May 2025 07:00:26 +0000",
+    "entities": [
+      [
+        "Israel",
+        "GPE"
+      ],
+      [
+        "at least 115",
+        "CARDINAL"
+      ],
+      [
+        "Palestinians",
+        "NORP"
+      ],
+      [
+        "Friday",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9984917640686035
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747450052",
+    "title": "Russia-Ukraine war: List of key events, day 1,178",
+    "summary": "These are the key events on day 1,178 of Russia\u2019s war on Ukraine.",
+    "date": "Sat, 17 May 2025 03:36:00 +0000",
+    "entities": [
+      [
+        "day 1,178",
+        "DATE"
+      ],
+      [
+        "Russia",
+        "GPE"
+      ],
+      [
+        "Ukraine",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9895080327987671
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747295186",
+    "title": "Malaysia\u2019s \u2018fish hunters\u2019 target invasive species, one catch at a time",
+    "summary": "Invasive species are an issue the world over, and waterways in mega-biodiverse Malaysia are threatened by imported fish.",
+    "date": "Sat, 17 May 2025 01:12:14 +0000",
+    "entities": [
+      [
+        "Malaysia",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9974773526191711
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747436373",
+    "title": "US announces first \u2018terrorism\u2019 charges for supporting a Mexican cartel",
+    "summary": "Immigration and Customs Enforcement has accused a Mexican woman of furnishing a cartel with grenades and other weapons.",
+    "date": "Sat, 17 May 2025 00:16:08 +0000",
+    "entities": [
+      [
+        "Immigration and Customs Enforcement",
+        "ORG"
+      ],
+      [
+        "Mexican",
+        "NORP"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9930248260498047
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747435484",
+    "title": "Moody\u2019s strips US government of top credit rating",
+    "summary": "Moody&#039;s cited rising debt saying US had repeatedly failed to end the trend of large annual fiscal deficits and interest.",
+    "date": "Fri, 16 May 2025 23:23:50 +0000",
+    "entities": [
+      [
+        "US",
+        "GPE"
+      ],
+      [
+        "annual",
+        "DATE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9861306548118591
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747432563",
+    "title": "US Supreme Court blocks the Trump administration\u2019s use of Alien Enemies Act",
+    "summary": "The court majority once again upheld a ruling that migrants were entitled to due process before their deportations.",
+    "date": "Fri, 16 May 2025 23:12:37 +0000",
+    "entities": [],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.98581463098526
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747432183",
+    "title": "Has Donald Trump taken US-Gulf relations to a new era?",
+    "summary": "US President Donald Trump has concluded his three-nation tour of the Gulf region.",
+    "date": "Fri, 16 May 2025 22:37:14 +0000",
+    "entities": [
+      [
+        "US",
+        "GPE"
+      ],
+      [
+        "Donald Trump",
+        "PERSON"
+      ],
+      [
+        "three",
+        "CARDINAL"
+      ],
+      [
+        "Gulf",
+        "LOC"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.9981648325920105
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747422604",
+    "title": "European leaders consult Trump to align response to Russia-Ukraine talks",
+    "summary": "European leaders speak to US president after Russia-Ukraine talks fail to achieve major breakthrough.",
+    "date": "Fri, 16 May 2025 22:24:45 +0000",
+    "entities": [
+      [
+        "European",
+        "NORP"
+      ],
+      [
+        "US",
+        "GPE"
+      ],
+      [
+        "Russia",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.6112946271896362
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747417269",
+    "title": "\u2018I cannot stand by\u2019: Former ambassador denounces Ukraine shift under Trump",
+    "summary": "Bridget Brink has written an op-ed accusing Trump of putting &#039;pressure on the victim&#039;, Ukraine, instead of Russia.",
+    "date": "Fri, 16 May 2025 21:54:37 +0000",
+    "entities": [
+      [
+        "Bridget Brink",
+        "PERSON"
+      ],
+      [
+        "Trump",
+        "PERSON"
+      ],
+      [
+        "Ukraine",
+        "GPE"
+      ],
+      [
+        "Russia",
+        "GPE"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.9741849303245544
+    }
+  },
+  {
+    "id": "https://www.aljazeera.com/?t=1747431206",
+    "title": "\u2018No soap, no morphine\u2019: Gaza volunteer on life under intensified bombing",
+    "summary": "Gaza volunteer calls Israel\u2019s intensified bombardment \u201cshocking\u201d as Palestinians face severe food and medical shortages.",
+    "date": "Fri, 16 May 2025 21:35:33 +0000",
+    "entities": [
+      [
+        "Gaza",
+        "GPE"
+      ],
+      [
+        "Israel",
+        "GPE"
+      ],
+      [
+        "Palestinians",
+        "NORP"
+      ]
+    ],
+    "events": [],
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 0.995360791683197
+    }
+  }
+]
